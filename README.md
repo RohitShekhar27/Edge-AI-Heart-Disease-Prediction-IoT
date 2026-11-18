@@ -63,5 +63,4 @@ We decoupled diagnostic computation from the cloud. A lightweight **Logistic Reg
 │   │   ├── sketch.ino                           # Main ESP32 C++ firmware & HTTPClient logic
 │   │   ├── model.h                              # Exported Logistic Regression C++ header
 │   │   └── diagram.json                         # Wokwi circuit configuration
-│   └── ThingSpeak_Dashboard/                    # Live telemetry chart screenshots
 └── README.md
