@@ -54,13 +54,13 @@ We decoupled diagnostic computation from the cloud. A lightweight **Logistic Reg
 ```text
 ├── 01_Report/
 │   └── Heart_Disease_Prediction_with_IoT.pdf    # Final M.Tech Project Report
-├── 02_Presentation/
-│   └── Heart_Disease_EdgeAI_Presentation.html   # Project Slide Deck
-├── 03_Source_Code/
+├── 02_Source_Code/
 │   ├── ML_Training_Colab/
 │   │   ├── Heart_Disease_Prediction.ipynb       # Model training & micromlgen export
 │   ├── ESP32_Wokwi/
 │   │   ├── sketch.ino                           # Main ESP32 C++ firmware & HTTPClient logic
 │   │   ├── model.h                              # Exported Logistic Regression C++ header
 │   │   └── diagram.json                         # Wokwi circuit configuration
+├── 03_Presentation/
+│   └── Heart_Disease_EdgeAI_Presentation.html   # Project Slide Deck
 └── README.md
