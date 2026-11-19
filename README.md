@@ -62,5 +62,5 @@ We decoupled diagnostic computation from the cloud. A lightweight **Logistic Reg
 │   │   ├── model.h                              # Exported Logistic Regression C++ header
 │   │   └── diagram.json                         # Wokwi circuit configuration
 ├── 03_Presentation/
-│   └── Heart_Disease_EdgeAI_Presentation.html   # Project Slide Deck
+│   └── Heart_Disease_EdgeAI_Presentation.html   # Project Slide 
 └── README.md
